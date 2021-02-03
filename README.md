@@ -1,4 +1,4 @@
-# kakaoemoticon_thumbnail_extract
+# Kakao Emoticon Thumbnail Extract
 카톡 이모티콘 썸네일 뽑아주는 그런거에요.
 
 썸네일을 뽑으니까 gif도 안되고 화질도 원본보단 훨씬 낮아요.
