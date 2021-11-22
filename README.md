@@ -48,4 +48,4 @@ pip install requests
 4. zip파일로 추출이 잘 되었는지 확인합니다. 해당 프로젝트 파일 위치에 저장됩니다.
 
 ## Author
-이요 / [@IYO1585](http://github.com/IYO1585) / [@iyogurt1585](https://twitter.com/iyogurt1585)
+나
